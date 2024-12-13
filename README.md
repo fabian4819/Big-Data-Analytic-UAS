@@ -3,26 +3,45 @@ Repository ini berisi kumpulan proyek analisis data yang mencakup berbagai tekni
 ## 📁 Struktur Proyek
 
 Project Big Data/
+
 │
-├── data/                    
+├data/                    
 │   ├── Online Retail.csv
+
 │   ├── diabetes.csv
+
 │   ├── supermarket_sales.csv
+
 │   └── ...
+
 │
-├── notebooks/              
+
+├── notebooks/   
+
 │   ├── 1.ipynb
+
 │   ├── 2.ipynb
+
 │   ├── 3.ipynb
+
 │   ├── 4.ipynb
+
 │   ├── 5.ipynb
+
 │   └── 6.ipynb
+
 │
+
 ├── models/                
+
 │   └── employee_retention_model.h5
+
 │
+
 └── image/                
+
     ├── diabetes.png
+    
     └── dtree.png
 
 ## 📊 Daftar Analisis yang Dilakukan
