@@ -3,10 +3,27 @@ Repository ini berisi kumpulan proyek analisis data yang mencakup berbagai tekni
 ## 📁 Struktur Proyek
 
 Project Big Data/
-├── data/                      # Kumpulan dataset
-├── notebooks/                 # Kumpulan notebook Tiap Soal
-├── models/                    # Model yang disimpan
-└── image/                     # Folder gambar dan visualisasi
+│
+├── data/                    
+│   ├── Online Retail.csv
+│   ├── diabetes.csv
+│   ├── supermarket_sales.csv
+│   └── ...
+│
+├── notebooks/              
+│   ├── 1.ipynb
+│   ├── 2.ipynb
+│   ├── 3.ipynb
+│   ├── 4.ipynb
+│   ├── 5.ipynb
+│   └── 6.ipynb
+│
+├── models/                
+│   └── employee_retention_model.h5
+│
+└── image/                
+    ├── diabetes.png
+    └── dtree.png
 
 ## 📊 Daftar Analisis yang Dilakukan
 1. Analisis Time Series (Deret Waktu)
